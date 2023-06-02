@@ -8,9 +8,9 @@
 #
 # Pentru adresa de email: mariustricolici@hotmail.com Si numele de utilizator: Marius
 
-username = input ('Numele ')
+username = input ('Introdu numele de utilizator ')
 
-mail = input('Mailul ')
+mail = input('Intordu Mailul ')
 print(f"Emailul pentru, {username}, a fost expediat cu succes pe adresa de email {mail} .")
 
 

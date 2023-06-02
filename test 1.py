@@ -1,5 +1,5 @@
 # Completeaza codul de mai jos pentru a
 # afișa numele utilizatorului introdus la consola.
 
-username = input ('Tasteaza numele')
+username = input ()
 print("Welcome " + username)

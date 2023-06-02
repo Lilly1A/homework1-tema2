@@ -2,5 +2,8 @@
 
 a = 12
 b = 24
+print(a)
+print(b)
+
 rez = a - b
 print ( "Rezultatul scaderii este ", rez)
