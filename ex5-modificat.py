@@ -9,7 +9,5 @@ current_nr='1'
 print(str(CONST_MATEMATICA)) # afisare 5
 print(current_nr + str(CONST_MATEMATICA)) #afisare 15
 print(int(current_nr + str(CONST_MATEMATICA))+CONST_MATEMATICA) #afisare 20
-print(int(current_nr + str(CONST_MATEMATICA))+CONST_MATEMATICA+CONST_MATEMATICA #afisare 25
-
-
+print(int(current_nr+ str(CONST_MATEMATICA))+CONST_MATEMATICA+CONST_MATEMATICA) #afisare 25
 
